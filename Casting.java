@@ -6,11 +6,10 @@ public class Casting
 		{
 			byte b = 89;
 			int a = 1024;
+			// converting int to byte using casting
 			byte res = (byte) a;
 			System.out.println("converterd value of res is " +res);
-			System.out.println(b);	
-			
-			
+			System.out.println(b);		
 			
 		}	
 	}
