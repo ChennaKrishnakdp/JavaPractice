@@ -8,7 +8,9 @@ public class Casting
 			int a = 1024;
 			byte res = (byte) a;
 			System.out.println("converterd value of res is " +res);
-			System.out.println(b);		
+			System.out.println(b);	
 			
+
+			// this is selenium branch created for test/demo			
 		}	
 	}
